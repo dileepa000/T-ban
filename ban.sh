@@ -3,7 +3,7 @@ pkg install figlet -y
 pkg install ruby -y
 gem install lolcat
 pkg install cowsay -y
-xdg-open https://youtube.com/channel/UCC6BjgRsZX6PZ4KptArCGfQ
+xdg-open https://youtube.com/channel/UCrhN3NZFphrT8_6nPW4JIbQ
 #colour code
 r='\e[1;31m'
 g='\e[1;32m'
@@ -29,9 +29,9 @@ echo -e $wh"███████╗   ██║   ███████╗"
 echo -e $wh"╚══════╝   ╚═╝   ╚══════╝"
 echo 
 echo -e "     ◻ tool create by,                                       "
-echo -e "          Dileepa Rukshan....         "
-echo -e "               admin of termux acedemy         "
-echo -e "                     ◾powerd by,          "
+echo -e "     Dileepa Rukshan and udith keshawa "
+echo -e "               admin of ceo   "
+echo -e "                     ◾powerd by,  "
 echo -e "                          ⇉CEO                                          "
 echo -e "                          ⇉Sl cyber worrriors                 "
 echo 
